@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Scripts/
+!Scripts/main.py
+!Scripts/texto.txt
